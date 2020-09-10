@@ -1,6 +1,6 @@
 
 ## Summary
-This is a micronaut/GraalVM sandbox/hsowcase applicatoin
+This is a micronaut/GraalVM sandbox/Showcase applicatoin
 
 ## Instructions
 ### Creation
